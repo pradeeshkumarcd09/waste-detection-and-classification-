@@ -1,0 +1,8 @@
+{
+    "test_accuracy": 0.631578947368421,
+    "macro_f1": 0.6175876312708448,
+    "weighted_f1": 0.6270505663300161,
+    "test_images": 380,
+    "training_images": 1768,
+    "validation_images": 379
+}
